@@ -1,4 +1,4 @@
-${DESIGN_URL}:11000/public/packages/dataiku-internal-client.tar.gz
+${DESIGN_URL}/public/packages/dataiku-internal-client.tar.gz
 dataiku-api-client
 pandas==0.23.4
 radon
