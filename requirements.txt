@@ -1,0 +1,5 @@
+@DESIGN_URL@/public/packages/dataiku-internal-client.tar.gz
+dataiku-api-client
+pandas==0.23.4
+radon
+pytest
