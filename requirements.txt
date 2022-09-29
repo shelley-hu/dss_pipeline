@@ -1,4 +1,4 @@
-http://ec2-3-237-1-42.compute-1.amazonaws.com:11000/public/packages/dataiku-internal-client.tar.gz
+${DESIGN_URL}:11000/public/packages/dataiku-internal-client.tar.gz
 dataiku-api-client
 pandas==0.23.4
 radon
